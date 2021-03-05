@@ -34,3 +34,5 @@
   <br>
   URL: https://ballinwithabudget.herokuapp.com/
   <img src="budget.jpg">
+  <br>
+  <img src="lighthousereport.jpg">
